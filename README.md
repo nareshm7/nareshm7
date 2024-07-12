@@ -20,13 +20,6 @@ I am a passionate software developer with a strong foundation in full-stack deve
 - **Tools & Platforms:** Git, Docker, AWS, Jenkins, CI/CD
 - **Other:** Agile Methodologies, Test-Driven Development, Unit Testing, Integration Testing
 
-### Projects
-
-#### Shopping Cart Project
-A fully functional shopping cart application using Node.js, Express.js, and MongoDB.
-- **Features:** User authentication, product management, cart functionality, order processing.
-- **GitHub Repo:** [Shopping Cart Project](https://github.com/your-username/shopping-cart-project)
-
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nareshm9888/)
