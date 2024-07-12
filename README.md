@@ -9,7 +9,7 @@ I am a passionate software developer with a strong foundation in full-stack deve
 - 🌱 I’m currently learning **GraphQL**, **Docker**, **TypeScript**, **DSA**
 - 👯 I’m looking to collaborate on open source projects and innovative web applications.
 - 💬 Ask me about **JavaScript**, **React**, **Node.js**, **Express.js**, **MongoDB**.
-- 📫 How to reach me: [your-email@example.com](mailto:nareshm9888@gmail.com)
+- 📫 How to reach me: [your-email@gmail.com](mailto:nareshm9888@gmail.com)
 - ⚡ Fun fact: I love solving problems and watching Netflix in my free time.
 
 ### Skills
